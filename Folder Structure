@@ -1,0 +1,18 @@
+com.moekyawaung.skycast
+├── data
+│   ├── model
+│   │   ├── AirPollutionResponse.kt
+│   │   ├── ForecastResponse.kt
+│   │   └── WeatherResponse.kt
+│   ├── remote
+│   │   ├── ApiClient.kt
+│   │   └── WeatherApiService.kt
+│   └── repository
+│       └── WeatherRepository.kt
+├── ui
+│   ├── main
+│   │   ├── MainActivity.kt
+│   │   ├── WeatherViewModel.kt
+│   │   └── WeatherViewModelFactory.kt
+├── utils
+│   └── Resource.kt
